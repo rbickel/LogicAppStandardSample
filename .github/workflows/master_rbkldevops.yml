@@ -60,4 +60,4 @@ jobs:
           app-name: 'rbkldevops'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E2E4EBBA58E489BA48778448CD2D943 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_08CB6003673C4B0AAD2B43C369ABFC20 }}
